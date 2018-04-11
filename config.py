@@ -1,1 +1,4 @@
-api_key = "08718cfd4bc118fceb092146b143d617"
+consumer_key = "CbVEOTaNflNJ884NayQruGvY1"
+consumer_secret = "y6VeJC5CqRbH0wrs7VEWOVESEnrjpOcWRroyUlEBcpRD1QtwW4"
+access_token = "980131518675734528-nXpY1KWJA3R2JLYbVwtuzjRu2r9DxSy"
+access_token_secret = "pZPvCVB8boDQW6ar9J4ywn8qeycKHq7tFwq7Dl2QQkLmM"
